@@ -23,6 +23,9 @@ The format of each line is
 <EnglishExpression>	<GermanTranslation>	<LABEL>
 Note that due to cultural differences, some of the original English expressions could not be translated. These cases are indicated by "?" in the column for the German translation.
 
+# attribution
+This data set is published under [Creative Commons Attribution 4.0](https://github.com/uds-lsv/offensive-compounds/blob/master/LICENSE).
+
 # acknowledgments
 The work was partially supported by the German Research Foundation (DFG) under grants RU 1873/2-1 and WI 4204/2-1,
 the Leibniz Science Campus “Empirical Linguistics and
